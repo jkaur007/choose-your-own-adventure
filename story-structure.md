@@ -9,11 +9,12 @@ Welcome to our **interactive adventure story**, where players make choices that 
 🌲 dark-forest.md → Jasmine's section (Dark Forest Path)
 🌊 river-path.md → Gursimran's section (River Path)
 🏡 village-elder.md → Avneet's section (Village Elder Path)
-📝 README.md → Project documentation
+📝 story-structure.md → Project documentation
 
 
 ## 👥 Team Members
 - **Jasmine Kaur** (Team Leader) - *Dark Forest Path*  
 - **Gursimran Kaur** - *River Path*  
 - **Avneet Kaur** - *Village Elder Path*  
+- **Gursimran singh**-
 
